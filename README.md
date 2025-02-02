@@ -1,5 +1,7 @@
 # 超广角（鱼眼）相机图像去畸变
 
+[![Sponsor](https://img.shields.io/badge/-Sponsor-red?style=for-the-badge&logo=GitHub-Sponsors&logoColor=white)](https://raw.githubusercontent.com/cuixing158/OpticalFlow-Visualization/refs/heads/main/README_media/sponsors.jpg)
+
 author:cuixingxing
 
 date: 2022.6
